@@ -1,1 +1,11 @@
-# CS-370-Current-Emerging-Trends-in-CS-
+# CS-370-Current-Emerging-Trends-in-CS
+
+Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+A lot of the code was given, however; in order to be able to build out the q-training algorithm you had to understand what was given to you. So essentially what I built was the q training and learning, but again you need to understand the matrix for the maze, the controls for the agent, the overall params and how things update. 
+
+Connect your learning from throughout this course to the larger field of computer science:
+What do computer scientists do and why does it matter?
+How do I approach a problem as a computer scientist?
+What are my ethical responsibilities to the end user and the organization?
+
+I am going to group this all into one answer/paragraph. First and foremost the term computer scientists is a very broad and generic term. And if we are speaking about programmers, developers, or software engineers they all essentially mean the same thing as well. To me a computer scientist could be someone who's well versed in full stack development building out a desktop application in Java. It could also mean someone building out the front end of a web application in React. What anyone that is writing code or doing adjacent jobs in tech is actually doing is solving a user need. For instance, I am a user and I need to speak to my friend who lives thousands of miles away from me. Well how a computer scientist would approach this is say something like, what is the fastest and most efficient way of completing this objective. Technology is the vehicle, but how do we build this? What should the architecture look like, what features could we add, what security measures are needed, what will the user experience be like. I think the difference that has been emerging is that we have built all these things, and for the most part we have just simply been reinventing the wheel. I think AGI and various specific AI's are the final frontier in this form of technology. Machines actually learning and possibly becoming sentient is the last piece of this type of technology I believe we can achieve. My ethical responsibilities are to be transparent in what I do.
